@@ -49,8 +49,7 @@
               "title": "Cues and Follow-Ups"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +211,9 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "2e056e255d373b21",
+  "active": "b1a3c92c67d9c147",
   "lastOpenFiles": [
+    "1-js/02-first-steps/08-operators/article.md",
     "Cues and Follow-Ups.md",
     "Progress.md",
     "README.md",
@@ -248,7 +248,6 @@
     "server/node_modules/ansi-styles/readme.md",
     "server/node_modules/chalk/readme.md",
     "server/node_modules/path-is-absolute/readme.md",
-    "server/node_modules/resolve-path/node_modules/setprototypeof/README.md",
-    "server/node_modules/resolve-path/node_modules/inherits/README.md"
+    "server/node_modules/resolve-path/node_modules/setprototypeof/README.md"
   ]
 }

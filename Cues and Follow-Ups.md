@@ -2,6 +2,7 @@
 ## Progress
 
 * [[1-js/02-first-steps/08-operators/article|Operators]]
+	* https://javascript.info/operators#tasks
 
 ---
 - JS
