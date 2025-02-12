@@ -1,9 +1,13 @@
 
-## 
+## Progress
 
+* [[1-js/02-first-steps/08-operators/article|Operators]]
+
+---
 - JS
 	- 01:  Getting Started
 		-  [[javascript.info/1-js/01-getting-started/1-intro/article#Cue|Intro]]
+
 ## Chapters
 ### 06:  Interaction:  alert, prompt, confirm
 - `alert(message)`

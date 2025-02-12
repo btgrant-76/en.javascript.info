@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "article",
+      "path": "1-js/02-first-steps/08-operators/article.md"
+    },
+    {
       "basename": "Cues and Follow-Ups",
       "path": "Cues and Follow-Ups.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Project Zomboid",
       "path": "Projects/Project Zomboid.md"
-    },
-    {
-      "basename": "Weekly Review Template from Evernote",
-      "path": "Weekly Review Template from Evernote.md"
     }
   ],
   "omittedPaths": [],
