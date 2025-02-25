@@ -16,7 +16,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Cues and Follow-Ups.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -209,11 +209,12 @@
           "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
-          "periodic-notes:Open today": false
+          "periodic-notes:Open today": false,
+          "workspaces-plus:Manage workspaces": false
         }
       },
       "active": "b1a3c92c67d9c147",
-      "mtime": "2025-02-14T10:53:14-06:00",
+      "mtime": "2025-02-24T19:19:24-06:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "1-js",
