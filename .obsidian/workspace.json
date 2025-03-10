@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "dbf76544241b24e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "2e056e255d373b21",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "Cues and Follow-Ups"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,11 +220,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
-      "workspaces-plus:Manage workspaces": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "b1a3c92c67d9c147",
+  "active": "dbf76544241b24e1",
   "lastOpenFiles": [
     "1-js/02-first-steps/08-operators/article.md",
     "Cues and Follow-Ups.md",
